@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @salimgovea
-- 👀 I’m interested in learning how to successfully code from the scratch
-- 🌱 I’m currently learning how to code HTML5, CSS3, and JavaScript.
-- 💞️ I’m looking to collaborate on anything
+- 👀🌱 Currently on my way to be a coder from the scratch.
+- 💞️ I’m looking to collaborate on anything and I'm also looking for potential candidates for technology positions.
 - 📫 How to reach me: salimgoveab@gmail.com
+    <b>My Stack </b>
+    languages: [Javascript, HTML, CSS, Typescript],
+
 
 <!---
 salimgovea/salimgovea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
